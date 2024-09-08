@@ -143,15 +143,3 @@ Thriller
 War
 
 Western
-
-Concepts Tested:
-
-Recommender Engine
-
-Collaborative Filtering (Item-based & User-based Approach)
-
-Pearson Correlation
-
-Nearest Neighbors using Cosine Similarity
-
-Matrix Factorization
